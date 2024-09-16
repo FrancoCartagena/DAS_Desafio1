@@ -8,7 +8,7 @@ Aplicacion desarrollada en C# para la gestion de una Biblioteca
 
 ## Instalación
 1. Clonar el repositorio
-2. Abrir la solucion en Visual Studio: 
+2. Abrir la solucion en Visual Studio: Archivo > Abrir > Proyecto/Solucion
 3. Compilar proyecto: Seleccion Compilar > Compilar solucion
 
 ## Problemas conocidos
